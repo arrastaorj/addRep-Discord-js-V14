@@ -1,0 +1,17 @@
+{
+  "name": "basedjsv14",
+  "version": "2.0.0",
+  "description": "Base de Bot para V14",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arrastão RJ",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3",
+    "mongoose": "^6.8.4"
+  }
+}
